@@ -4,7 +4,7 @@ class Solution {
         int right = nums.length - 1;
 
         while (left <= right) {
-            // Use this formula to prevent potential integer overflow
+
             int mid = left + (right - left) / 2;
 
             if (nums[mid] == target) {
@@ -16,7 +16,6 @@ class Solution {
             }
         }
         
-        // If not found, 'left' points to the correct insertion index
         return left;
     }
 }
