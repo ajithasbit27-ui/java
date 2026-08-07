@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ajithasbit27-ui/java/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/ajithasbit27-ui/java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ajithasbit27-ui/java/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ajithasbit27-ui/java/tree/master/0079-word-search) |
@@ -14,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ajithasbit27-ui/java/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/ajithasbit27-ui/java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ajithasbit27-ui/java/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/ajithasbit27-ui/java/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ajithasbit27-ui/java/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ajithasbit27-ui/java/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
