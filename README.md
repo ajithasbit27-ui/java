@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ajithasbit27-ui/java/tree/master/0069-sqrtx) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ajithasbit27-ui/java/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ajithasbit27-ui/java/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/ajithasbit27-ui/java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ajithasbit27-ui/java/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ajithasbit27-ui/java/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ajithasbit27-ui/java/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
