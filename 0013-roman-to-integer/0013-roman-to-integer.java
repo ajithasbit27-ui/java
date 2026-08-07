@@ -1,0 +1,11 @@
+class Solution {
+    public int romanToInt(String s) {
+        Map<Character, Integer> m = Map.of('I', 1, 'V', 5, 'X', 10, 'L', 50, 'C', 100, 'D', 500, 'M', 1000);
+    int ans = 0;
+    for (int i = 0; i < s.length(); i++) {
+        if (i < s.length() - 1 && m.get(s.charAt(i)) < m.get(s.charAt(i+1))) ans -= m.get(s.charAt(i));
+        else ans += m.get(s.charAt(i));
+    }
+    return ans;
+    }
+}
