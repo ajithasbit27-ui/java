@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ajithasbit27-ui/java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ajithasbit27-ui/java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ajithasbit27-ui/java/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ajithasbit27-ui/java/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ajithasbit27-ui/java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ajithasbit27-ui/java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ajithasbit27-ui/java/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ajithasbit27-ui/java/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ajithasbit27-ui/java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ajithasbit27-ui/java/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
@@ -60,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ajithasbit27-ui/java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ajithasbit27-ui/java/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
