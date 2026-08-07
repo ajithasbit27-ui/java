@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ajithasbit27-ui/java/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/ajithasbit27-ui/java/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ajithasbit27-ui/java/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/ajithasbit27-ui/java/tree/master/0200-number-of-islands) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ajithasbit27-ui/java/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/ajithasbit27-ui/java/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ajithasbit27-ui/java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ajithasbit27-ui/java/tree/master/0733-flood-fill) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajithasbit27-ui/java/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ajithasbit27-ui/java/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
