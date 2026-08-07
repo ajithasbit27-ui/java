@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ajithasbit27-ui/java/tree/master/0125-valid-palindrome) |
+| [0784-letter-case-permutation](https://github.com/ajithasbit27-ui/java/tree/master/0784-letter-case-permutation) |
 ## Tree
 |  |
 | ------- |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ajithasbit27-ui/java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ajithasbit27-ui/java/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/ajithasbit27-ui/java/tree/master/0784-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/ajithasbit27-ui/java/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
