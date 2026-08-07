@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ajithasbit27-ui/java/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ajithasbit27-ui/java/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ajithasbit27-ui/java/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ajithasbit27-ui/java/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/ajithasbit27-ui/java/tree/master/0200-number-of-islands) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ajithasbit27-ui/java/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ajithasbit27-ui/java/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/ajithasbit27-ui/java/tree/master/0455-assign-cookies) |
 ## Quicksort
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajithasbit27-ui/java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ajithasbit27-ui/java/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ajithasbit27-ui/java/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ajithasbit27-ui/java/tree/master/0125-valid-palindrome) |
 | [0784-letter-case-permutation](https://github.com/ajithasbit27-ui/java/tree/master/0784-letter-case-permutation) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajithasbit27-ui/java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ajithasbit27-ui/java/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
