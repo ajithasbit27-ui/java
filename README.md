@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ajithasbit27-ui/java/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ajithasbit27-ui/java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajithasbit27-ui/java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ajithasbit27-ui/java/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ajithasbit27-ui/java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ajithasbit27-ui/java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ajithasbit27-ui/java/tree/master/0066-plus-one) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ajithasbit27-ui/java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ajithasbit27-ui/java/tree/master/0069-sqrtx) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ajithasbit27-ui/java/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
