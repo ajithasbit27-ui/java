@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajithasbit27-ui/java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ajithasbit27-ui/java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ajithasbit27-ui/java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ajithasbit27-ui/java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajithasbit27-ui/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajithasbit27-ui/java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ajithasbit27-ui/java/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ajithasbit27-ui/java/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ajithasbit27-ui/java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ajithasbit27-ui/java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ajithasbit27-ui/java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ajithasbit27-ui/java/tree/master/0069-sqrtx) |
